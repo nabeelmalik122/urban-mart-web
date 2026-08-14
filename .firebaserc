@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "nabeel804-4dd59"
+  },
+  "targets": {
+    "nabeel804-4dd59": {
+      "hosting": {
+        "urbanmart": [
+          "urbanmart"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
