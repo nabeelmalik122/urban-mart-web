@@ -10,27 +10,25 @@ UrbanMart provides a complete shopping experience for customers, together with a
 
 ## 📸 Screenshots
 
-> Add your project screenshots here.
-
-### Homepage
+### 🏠 Homepage
 
 ![UrbanMart Homepage](./screenshots/homepage.png)
 
-### Products
+### 🛍️ Products
 
 ![UrbanMart Products](./screenshots/products.png)
 
-### Shopping Cart
+### 🛒 Shopping Cart
 
-![Shopping Cart](./screenshots/cart.png)
+![UrbanMart Shopping Cart](./screenshots/cart.png)
 
-### Checkout
+### 📦 My Orders
 
-![Checkout](./screenshots/checkout.png)
+![UrbanMart My Orders](./screenshots/orders.png)
 
-### Admin Dashboard
+### 👑 Admin Dashboard
 
-![Admin Dashboard](./screenshots/admin-dashboard.png)
+![UrbanMart Admin Dashboard](./screenshots/admin-dashboard.png)
 
 ---
 
@@ -339,6 +337,13 @@ npm run build
 urban-mart-web/
 │
 ├── public/
+│
+├── screenshots/
+│   ├── admin-dashboard.png
+│   ├── cart.png
+│   ├── homepage.png
+│   ├── orders.png
+│   └── products.png
 │
 ├── src/
 │   ├── components/
